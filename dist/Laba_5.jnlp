@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Laba_5.jnlp">
+  <information>
+    <title>Laba_5</title>
+    <vendor>Mazilaa</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Laba_5.jar" size="10464" download="eager" />
+  </resources>
+  <application-desc main-class="Forma"  name="Laba_5" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
